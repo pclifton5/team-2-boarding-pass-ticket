@@ -1,0 +1,13 @@
+# ignore class files
+*.class
+
+# ignore log files
+*.log
+
+# ignore xml files
+*.xml
+
+# ignore jari/war files
+*.jar
+*.war
+
